@@ -1,0 +1,6 @@
+#include<iostream>
+using namespace std;
+int main(){
+	cout << "This is the second branch" << endl;
+	return 0;
+}	//用于测试分支的创建与删除
